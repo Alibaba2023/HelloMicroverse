@@ -3,7 +3,7 @@
 <div align="center">
   <br/>
 
-  <h3><b>Hello Microverse!</b></h3>
+  <h3><b>Hello Microverse Project</b></h3>
 
 </div>
 
@@ -29,11 +29,13 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [Hello microverse] <a name="about-project"></a>
+# 📖 [HelloWorld-Microverse] <a name="about-project"></a>
 
-**[Hello microverse]** is a project to make students learn about linters and other project initial settings.
+**[HelloWorld-Microverse]** is a project to make Micronauts learn about linters configurations and other project initial settings.
 
 ## 🛠 Built With <a name="built-with"></a>
+
+html, css, git, github and linters.
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -55,6 +57,8 @@
 ### Key Features <a name="key-features"></a>
 
 - **[Best Practices]**
+- **[Clean Coded]**
+- **[Extendable and flexable]**
 
 In this project best coding practices is use
 
@@ -62,28 +66,35 @@ In this project best coding practices is use
 
 To get a local copy up and running, follow these steps.
 
+1. Go to this URL link: https://github.com/Alibaba2023/HelloMicroverse.git
+2. clone the repo and start working on it.
+
 ### Prerequisites
 
 In order to run this project you need:
 
-working in browser
+Google Chrome or other browser
 
 ```sh
-  
+  https://www.google.com/chrome/?brand=JJTC&gclid=CjwKCAjw9J2iBhBPEiwAErwpeSDcMFWiIQWj2u5GY6owZ7OaOHw7dYYCHW7uTR4kvYosNJYd4wt4VxoCiywQAvD_BwE&gclsrc=aw.ds
 ```
 
 Github Account:
+
 ```sh
   https://github.com/
 ```
-Npm installed: 
+
+Npm installed:
+
 ```sh
   https://nodejs.org/en/download
 ```
 
-Git installed: 
+Git installed:
+
 ```sh
-  https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+  https://git-scm.com/downloads/
 ```
 
 ### Setup
@@ -92,7 +103,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone github.com/Alibaba2023/Hello-Microverse.git
+  git clone https://github.com/Alibaba2023/HelloMicroverse.git
 ```
 
 ### Install
@@ -102,14 +113,19 @@ Install this project with:
 Linters:
 
 Lighthouse run:
+
 ```sh
   npm install -g @lhci/cli@0.7.x
 ```
-Webhint run 
+
+Webhint run
+
 ```sh
  npm install --save-dev hint@7.x
 ```
+
 StyleLint run:
+
 ```sh
  npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
 ```
@@ -132,10 +148,6 @@ to check for styling errors:
 ```sh
   npx stylelint "**/*.{css,scss}"
 ```
-To test optimization:
-```sh
-  lighthouse [site url]
-```
 
 ### Deployment
 
@@ -147,15 +159,15 @@ Your working browser.
 
 👤 **Ali Baba Hussaini**
 
-- GitHub: [@githubhandle](https://github.com/Alibaba2023)
-- Twitter: [@twitterhandle](https://twitter.com/Alibaba)
+- GitHub: [@Alibaba2023](https://github.com/Alibaba2023)
+- Twitter: [@AliBabaHu2023](https://twitter.com/AliBabaHu2023)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ali-baba-hussaini-630607267/)
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Alibaba2023/HelloMicroverse/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -164,7 +176,6 @@ Feel free to check the [issues page](../../issues/).
 If you like this project, don't forget to star.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 📝 License <a name="license"></a>
 
