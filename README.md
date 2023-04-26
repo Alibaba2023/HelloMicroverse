@@ -163,6 +163,17 @@ Your working browser.
 - Twitter: [@AliBabaHu2023](https://twitter.com/AliBabaHu2023)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ali-baba-hussaini-630607267/)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+
+- [ ] **[Mobile version]**
+- [ ] **[responsive ]**
+- [ ] **[ew_feature]**
+
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
@@ -176,9 +187,18 @@ Feel free to check the [issues page](https://github.com/Alibaba2023/HelloMicrove
 If you like this project, don't forget to star.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+
+I would like to thank Microverse Team and my partiners
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
